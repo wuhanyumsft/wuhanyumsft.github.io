@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: post
+title: promise
 ---
 # Chapter 3: Promises
 

@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: post
+title: callback
 ---
 
 # Chapter 2: Callbacks

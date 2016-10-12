@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: post
+title: program performance
 ---
 # Chapter 5: Program Performance
 

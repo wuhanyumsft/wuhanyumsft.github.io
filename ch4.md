@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: post
+title: generators
 ---
 # Chapter 4: Generators
 

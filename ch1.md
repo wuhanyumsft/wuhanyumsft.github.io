@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: post
+title: Now & Later
 ---
 
 # Chapter 1: Asynchrony: Now & Later

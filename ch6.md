@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: post
+title: benchmarking & tuning
 ---
 # Chapter 6: Benchmarking & Tuning
 
