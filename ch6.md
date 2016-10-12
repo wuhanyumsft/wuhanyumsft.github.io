@@ -1,9 +1,6 @@
 ---
 layout: page
-title: Chapter 6: Benchmarking & Tuning
-permalink: /ydk_ch6/
 ---
-# You Don't Know JS: Async & Performance
 # Chapter 6: Benchmarking & Tuning
 
 As the first four chapters of this book were all about performance as a coding pattern (asynchrony and concurrency), and Chapter 5 was about performance at the macro program architecture level, this chapter goes after the topic of performance at the micro level, focusing on single expressions/statements.

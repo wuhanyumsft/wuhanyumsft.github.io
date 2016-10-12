@@ -1,10 +1,6 @@
 ---
 layout: page
-title: Chapter 5: Program Performance
-permalink: /ydk_ch5/
 ---
-
-# You Don't Know JS: Async & Performance
 # Chapter 5: Program Performance
 
 This book so far has been all about how to leverage asynchrony patterns more effectively. But we haven't directly addressed why asynchrony really matters to JS. The most obvious explicit reason is **performance**.
