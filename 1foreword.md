@@ -1,6 +1,7 @@
 ---
 layout: post
 title: foreword
+permalink: index.html
 ---
 # Foreword
 
